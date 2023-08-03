@@ -1,0 +1,288 @@
+[[VCDiff]]
+arch = "aarch64"
+git-tree-sha1 = "0d9e5ae84cd32097954de272e9f173ae37865f35"
+os = "macos"
+
+    [[VCDiff.download]]
+    sha256 = "4fbae3dcb658347797a22eca3fd9adc24d5345b6d3f0e979d2e5707d49d493f0"
+    url = "https://github.com/JuliaBinaryWrappers/VCDiff_jll.jl/releases/download/VCDiff-v0.8.4+0/VCDiff.v0.8.4.aarch64-apple-darwin.tar.gz"
+[[VCDiff]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "c5b44a659f244fff78adfbc6bbaa2a6db79a8d67"
+libc = "glibc"
+os = "linux"
+
+    [[VCDiff.download]]
+    sha256 = "c2248a349ace9a2d48093d86ad1f4cbb612e28e885a623249bcb41bc3f820a61"
+    url = "https://github.com/JuliaBinaryWrappers/VCDiff_jll.jl/releases/download/VCDiff-v0.8.4+0/VCDiff.v0.8.4.aarch64-linux-gnu-cxx03.tar.gz"
+[[VCDiff]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "0653111d1de5518d7c09599447dd2d18dd8b6d7a"
+libc = "glibc"
+os = "linux"
+
+    [[VCDiff.download]]
+    sha256 = "a81a51e87123ee6b739e7c78c6b6d746e9451cf9280558d32371bd05cb9e685f"
+    url = "https://github.com/JuliaBinaryWrappers/VCDiff_jll.jl/releases/download/VCDiff-v0.8.4+0/VCDiff.v0.8.4.aarch64-linux-gnu-cxx11.tar.gz"
+[[VCDiff]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "d79f200b7d1e453824982e084fe5de84879cd697"
+libc = "musl"
+os = "linux"
+
+    [[VCDiff.download]]
+    sha256 = "a631b3ee41ac6eaad2789291a5056b9a86d01f83e037b11f71d77c2daa5aa88c"
+    url = "https://github.com/JuliaBinaryWrappers/VCDiff_jll.jl/releases/download/VCDiff-v0.8.4+0/VCDiff.v0.8.4.aarch64-linux-musl-cxx03.tar.gz"
+[[VCDiff]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "e84f32ff683668064b0d6faaa5e1931b459461ba"
+libc = "musl"
+os = "linux"
+
+    [[VCDiff.download]]
+    sha256 = "696b8a91244eb944b11486af75facdb9aae68cd3b00e295ec8f95aad044f3ea4"
+    url = "https://github.com/JuliaBinaryWrappers/VCDiff_jll.jl/releases/download/VCDiff-v0.8.4+0/VCDiff.v0.8.4.aarch64-linux-musl-cxx11.tar.gz"
+[[VCDiff]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "030683315a337da54f88aba7f0182dffe1b9d670"
+libc = "glibc"
+os = "linux"
+
+    [[VCDiff.download]]
+    sha256 = "0198ed4ee32167bd00de64ea3dc5edda6a57d50c38ba41d9048c2e5fd56b0ae6"
+    url = "https://github.com/JuliaBinaryWrappers/VCDiff_jll.jl/releases/download/VCDiff-v0.8.4+0/VCDiff.v0.8.4.armv6l-linux-gnueabihf-cxx03.tar.gz"
+[[VCDiff]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "27eb40bc3c7d73fa4ff65c89dd887b685197e886"
+libc = "glibc"
+os = "linux"
+
+    [[VCDiff.download]]
+    sha256 = "884277f25c909783ee9ed9dcf76632eae76ef904b848977d5fb250cb6df56f8e"
+    url = "https://github.com/JuliaBinaryWrappers/VCDiff_jll.jl/releases/download/VCDiff-v0.8.4+0/VCDiff.v0.8.4.armv6l-linux-gnueabihf-cxx11.tar.gz"
+[[VCDiff]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "b6c6f9f4929917b32204927c67b917cfa89ab61e"
+libc = "musl"
+os = "linux"
+
+    [[VCDiff.download]]
+    sha256 = "0711bfe60f763b396814c420bcf26cca242ef796dc598b1f1f239319d88952a0"
+    url = "https://github.com/JuliaBinaryWrappers/VCDiff_jll.jl/releases/download/VCDiff-v0.8.4+0/VCDiff.v0.8.4.armv6l-linux-musleabihf-cxx03.tar.gz"
+[[VCDiff]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "d963cbefe316aa1f232d2114e9fa2e468f81cbb2"
+libc = "musl"
+os = "linux"
+
+    [[VCDiff.download]]
+    sha256 = "0fe9445e522df957aa94ab26f7cbacaf7e7847e7a88ea8928b02812ca512b6fb"
+    url = "https://github.com/JuliaBinaryWrappers/VCDiff_jll.jl/releases/download/VCDiff-v0.8.4+0/VCDiff.v0.8.4.armv6l-linux-musleabihf-cxx11.tar.gz"
+[[VCDiff]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "b67881319bd976a13428e964da4ceccbbc14b8d7"
+libc = "glibc"
+os = "linux"
+
+    [[VCDiff.download]]
+    sha256 = "03d16150707e68700a7eb2a1fffb73ce8a828c4b6cb58e35ec61138023d15064"
+    url = "https://github.com/JuliaBinaryWrappers/VCDiff_jll.jl/releases/download/VCDiff-v0.8.4+0/VCDiff.v0.8.4.armv7l-linux-gnueabihf-cxx03.tar.gz"
+[[VCDiff]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "b0600ea63e5ebc286c89cb65b7b28a4f87436b7d"
+libc = "glibc"
+os = "linux"
+
+    [[VCDiff.download]]
+    sha256 = "8428be76ddb595136ad07ae9fc45a0df8acf72cee115023dd8a645ecf3c1b75a"
+    url = "https://github.com/JuliaBinaryWrappers/VCDiff_jll.jl/releases/download/VCDiff-v0.8.4+0/VCDiff.v0.8.4.armv7l-linux-gnueabihf-cxx11.tar.gz"
+[[VCDiff]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "fbc1060ce44723a89750ad8380ca911e707b86c6"
+libc = "musl"
+os = "linux"
+
+    [[VCDiff.download]]
+    sha256 = "acad62f88b34042b6c9114b82f40bbd26156555ffa57bfa65a64da7259572e10"
+    url = "https://github.com/JuliaBinaryWrappers/VCDiff_jll.jl/releases/download/VCDiff-v0.8.4+0/VCDiff.v0.8.4.armv7l-linux-musleabihf-cxx03.tar.gz"
+[[VCDiff]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "0640a62b153150398a63f12f438c5a170a05aaba"
+libc = "musl"
+os = "linux"
+
+    [[VCDiff.download]]
+    sha256 = "b3473a545b73c4e0e9e1bf7daee0db021139953aebc2a8ee6ba4e9a83f51155b"
+    url = "https://github.com/JuliaBinaryWrappers/VCDiff_jll.jl/releases/download/VCDiff-v0.8.4+0/VCDiff.v0.8.4.armv7l-linux-musleabihf-cxx11.tar.gz"
+[[VCDiff]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "6ee099a48aadb23ba7da5b3297dabb12e1b42106"
+libc = "glibc"
+os = "linux"
+
+    [[VCDiff.download]]
+    sha256 = "0b1db9f16700cd050a9e77a08b7f919d979ce6f6238b31fe87e40c539c74f5c1"
+    url = "https://github.com/JuliaBinaryWrappers/VCDiff_jll.jl/releases/download/VCDiff-v0.8.4+0/VCDiff.v0.8.4.i686-linux-gnu-cxx03.tar.gz"
+[[VCDiff]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "2b36d74d7e757de441af0290a76f0b711a799076"
+libc = "glibc"
+os = "linux"
+
+    [[VCDiff.download]]
+    sha256 = "d8be177eb0a1104f85db4aa3b009d8cc4560fdc763b64874925644d40972f944"
+    url = "https://github.com/JuliaBinaryWrappers/VCDiff_jll.jl/releases/download/VCDiff-v0.8.4+0/VCDiff.v0.8.4.i686-linux-gnu-cxx11.tar.gz"
+[[VCDiff]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "f224e6b1089b6c5ac65640253bea334eac021ac7"
+libc = "musl"
+os = "linux"
+
+    [[VCDiff.download]]
+    sha256 = "e67a7230780421647c9f6d83e5000d3de7ed9df088aca45ab90f9ec521206f57"
+    url = "https://github.com/JuliaBinaryWrappers/VCDiff_jll.jl/releases/download/VCDiff-v0.8.4+0/VCDiff.v0.8.4.i686-linux-musl-cxx03.tar.gz"
+[[VCDiff]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "d4f1ca9dc89122804a10338e8d8cc3ac592b779e"
+libc = "musl"
+os = "linux"
+
+    [[VCDiff.download]]
+    sha256 = "78fad0256f53b669e7fa074cb027de224ec023071b227a479b5c2a13ab656c5e"
+    url = "https://github.com/JuliaBinaryWrappers/VCDiff_jll.jl/releases/download/VCDiff-v0.8.4+0/VCDiff.v0.8.4.i686-linux-musl-cxx11.tar.gz"
+[[VCDiff]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "2e6579a0e49125866348f28d2b1cf912f5f48702"
+os = "windows"
+
+    [[VCDiff.download]]
+    sha256 = "718ac43126b60cc9d00d3bc5542c7808017b92977645ce24995ce6f9941c4b86"
+    url = "https://github.com/JuliaBinaryWrappers/VCDiff_jll.jl/releases/download/VCDiff-v0.8.4+0/VCDiff.v0.8.4.i686-w64-mingw32-cxx03.tar.gz"
+[[VCDiff]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "b322890f89e88c842222a7a24e50f52583c51292"
+os = "windows"
+
+    [[VCDiff.download]]
+    sha256 = "a25b4c5e25c3893effee0bdb2b05b13ad997cb7d8fd043b483d764f1d2e14bde"
+    url = "https://github.com/JuliaBinaryWrappers/VCDiff_jll.jl/releases/download/VCDiff-v0.8.4+0/VCDiff.v0.8.4.i686-w64-mingw32-cxx11.tar.gz"
+[[VCDiff]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "edccf9cabb5d13685fd4a050524fae50d36e16b0"
+libc = "glibc"
+os = "linux"
+
+    [[VCDiff.download]]
+    sha256 = "27f6daafc6d1d9057d9e310517eae9bbf870b5758a8c0336d91c1f7b1a5ffd29"
+    url = "https://github.com/JuliaBinaryWrappers/VCDiff_jll.jl/releases/download/VCDiff-v0.8.4+0/VCDiff.v0.8.4.powerpc64le-linux-gnu-cxx03.tar.gz"
+[[VCDiff]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "e2e24ea16b07174ab2c354287026f8e43f5cc22a"
+libc = "glibc"
+os = "linux"
+
+    [[VCDiff.download]]
+    sha256 = "d7841f7aac1d40ff7bcf865137b5ad3a2dca16b4b68d0fb4ef1c43b083a242d9"
+    url = "https://github.com/JuliaBinaryWrappers/VCDiff_jll.jl/releases/download/VCDiff-v0.8.4+0/VCDiff.v0.8.4.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[VCDiff]]
+arch = "x86_64"
+git-tree-sha1 = "4cf4861adceeb85fa37277db091d7f37c97756a1"
+os = "macos"
+
+    [[VCDiff.download]]
+    sha256 = "e8da590d4a8ec239ec33771b7377a2e5cefa743d0dd4ede089037ea88826b653"
+    url = "https://github.com/JuliaBinaryWrappers/VCDiff_jll.jl/releases/download/VCDiff-v0.8.4+0/VCDiff.v0.8.4.x86_64-apple-darwin.tar.gz"
+[[VCDiff]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "969f0fb85254faaa73a43499999bab5c072f0268"
+libc = "glibc"
+os = "linux"
+
+    [[VCDiff.download]]
+    sha256 = "65004d6d4ca75fe23b8a4ad6746643ffbd613b79de5e277b66014ef5773d5ada"
+    url = "https://github.com/JuliaBinaryWrappers/VCDiff_jll.jl/releases/download/VCDiff-v0.8.4+0/VCDiff.v0.8.4.x86_64-linux-gnu-cxx03.tar.gz"
+[[VCDiff]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "2018ad3bec962915926aa4e0fd270dd3b2201407"
+libc = "glibc"
+os = "linux"
+
+    [[VCDiff.download]]
+    sha256 = "b67478c72bc8eb1f1b1a5da77261c487068cec20a697dcbcdecb67252b3e7c97"
+    url = "https://github.com/JuliaBinaryWrappers/VCDiff_jll.jl/releases/download/VCDiff-v0.8.4+0/VCDiff.v0.8.4.x86_64-linux-gnu-cxx11.tar.gz"
+[[VCDiff]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "0d8f4d757a03f42e2cd7000876c8384456f88f1d"
+libc = "musl"
+os = "linux"
+
+    [[VCDiff.download]]
+    sha256 = "ac907898cee43965aa4996b538654c16bcbe8bf01fa2176365d56b2e89d7a1f9"
+    url = "https://github.com/JuliaBinaryWrappers/VCDiff_jll.jl/releases/download/VCDiff-v0.8.4+0/VCDiff.v0.8.4.x86_64-linux-musl-cxx03.tar.gz"
+[[VCDiff]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "00b9db4ef613170c1f44ec81d5ceaa1b689f056b"
+libc = "musl"
+os = "linux"
+
+    [[VCDiff.download]]
+    sha256 = "ab8f66992a81e7748f28c5c0995d1248fb79ef82c298a3664c660f0ef0250140"
+    url = "https://github.com/JuliaBinaryWrappers/VCDiff_jll.jl/releases/download/VCDiff-v0.8.4+0/VCDiff.v0.8.4.x86_64-linux-musl-cxx11.tar.gz"
+[[VCDiff]]
+arch = "x86_64"
+git-tree-sha1 = "6cc7ded9ccee66cb16bd06d5eb3a8364ef550db7"
+os = "freebsd"
+
+    [[VCDiff.download]]
+    sha256 = "620f259a609bb580b0c0b0a6f525e8f50fe7b72310ff353698f41085e08c097d"
+    url = "https://github.com/JuliaBinaryWrappers/VCDiff_jll.jl/releases/download/VCDiff-v0.8.4+0/VCDiff.v0.8.4.x86_64-unknown-freebsd.tar.gz"
+[[VCDiff]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "43782d175ded51a71405bf8feb35fb974d3f2457"
+os = "windows"
+
+    [[VCDiff.download]]
+    sha256 = "a9815fdb13dd7b2a6b2d294e8b7c524d11ddc3e211977b6ced35e1e43adbf026"
+    url = "https://github.com/JuliaBinaryWrappers/VCDiff_jll.jl/releases/download/VCDiff-v0.8.4+0/VCDiff.v0.8.4.x86_64-w64-mingw32-cxx03.tar.gz"
+[[VCDiff]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "52ee6d1d37acab11b323dcbbfffaa183a2c6a919"
+os = "windows"
+
+    [[VCDiff.download]]
+    sha256 = "5eaff5dfc2a886d0693e46f0e9ba1f84450e3990aa5455540c0f02fca1b36805"
+    url = "https://github.com/JuliaBinaryWrappers/VCDiff_jll.jl/releases/download/VCDiff-v0.8.4+0/VCDiff.v0.8.4.x86_64-w64-mingw32-cxx11.tar.gz"
